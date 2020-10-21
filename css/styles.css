@@ -75,6 +75,18 @@ footer {
     color: rgb(100, 100, 100)
 }
 
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+footer li {
+    display: inline-block;
+    align-items: right;
+    margin-right: 20px;
+}
+
 div {
     background: red;
     margin: auto;
