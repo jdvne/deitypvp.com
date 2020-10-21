@@ -10,14 +10,10 @@
 
 body {
     background: black;
-    font-family: courier;
+    font-family: "Minecraft Regular";
     color: white;
     margin: 0;
     padding: 0;
-}
-
-h2 {
-    font-family: "Minecraft Regular";
 }
 
 /* HEADER */
