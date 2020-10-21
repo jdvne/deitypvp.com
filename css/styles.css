@@ -67,7 +67,7 @@ a.no_highlight {
     text-decoration: none;
 }
 
-a:hover.no_highlight {
+a:hover.no_highlight.underline {
     text-decoration: underline;
 }
 
